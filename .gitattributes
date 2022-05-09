@@ -1,0 +1,3 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+$ git clone https://github.com/googlecodelabs/migrate-to-progressive-web-apps.git
