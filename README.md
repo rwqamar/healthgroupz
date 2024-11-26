@@ -17,7 +17,7 @@ Dependencies: pandas and streamlit
 ## Running the Webapp: 
 
 Navigate to the project directory in your command prompt or terminal and execute the following command:
-`streamlit run hims_app.py`
+`streamlit run app.py`
 
 This command will automatically open the application in a new tab in your default browser . No internet connection is required to use this application.
 
